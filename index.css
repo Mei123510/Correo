@@ -1,0 +1,39 @@
+body{
+      background-color: ;
+      background: url(../../../img/fondo1.jpg) no-repeat center center fixed;
+      border-image-width: 100%;
+      image-rendering: 100%;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+h1 { 
+    color:#0404B4;
+    text-align: center; 
+    }
+h1.text {
+     font-family: "Fantasy"; 
+     font-size:25px;
+     font-weight:900;
+      }
+h2{
+     color:#000000;
+     text-align: center;
+    }
+h2.text {
+     font-family: "Garamond";
+     font-size:20px;
+      }
+#Contenedor{
+      width: 460px;
+      margin: 50px auto;
+      background-color: #FFFFFF;
+      border: 0px solid #E0E6F8;
+      height: 400px;
+      border-radius:5px;
+      padding: 0px 50px 0px 50px;}
+.icon-title{
+      color:#2E2E2E;}  
+.opacity{
+      opacity: 0.5;}  
